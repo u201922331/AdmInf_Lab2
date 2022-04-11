@@ -1,0 +1,5003 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<wb:data page="1" pages="2" per_page="500" total="532" sourceid="2" sourcename="World Development Indicators" lastupdated="2022-04-08" xmlns:wb="http://www.worldbank.org">
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="ZH">Africa Eastern and Southern</wb:country>
+    <wb:countryiso3code>AFE</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>920792331527.746</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="ZH">Africa Eastern and Southern</wb:country>
+    <wb:countryiso3code>AFE</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>1009909855421.84</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="ZI">Africa Western and Central</wb:country>
+    <wb:countryiso3code>AFW</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>784587603322.866</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="ZI">Africa Western and Central</wb:country>
+    <wb:countryiso3code>AFW</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>794572474605.872</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="1A">Arab World</wb:country>
+    <wb:countryiso3code>ARB</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>2447584445275.52</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="1A">Arab World</wb:country>
+    <wb:countryiso3code>ARB</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>2776468692322.96</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="S3">Caribbean small states</wb:country>
+    <wb:countryiso3code>CSS</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>66039332389.2884</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="S3">Caribbean small states</wb:country>
+    <wb:countryiso3code>CSS</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>76173669481.1443</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="B8">Central Europe and the Baltics</wb:country>
+    <wb:countryiso3code>CEB</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>1653247533863.81</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="B8">Central Europe and the Baltics</wb:country>
+    <wb:countryiso3code>CEB</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>1673863310975.42</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="V2">Early-demographic dividend</wb:country>
+    <wb:countryiso3code>EAR</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>10668243564848.3</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="V2">Early-demographic dividend</wb:country>
+    <wb:countryiso3code>EAR</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>11527336323652.6</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="Z4">East Asia &amp; Pacific</wb:country>
+    <wb:countryiso3code>EAS</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>27097404937164.8</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="Z4">East Asia &amp; Pacific</wb:country>
+    <wb:countryiso3code>EAS</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>26981455514224.5</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="4E">East Asia &amp; Pacific (excluding high income)</wb:country>
+    <wb:countryiso3code>EAP</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>17448894596355.7</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="4E">East Asia &amp; Pacific (excluding high income)</wb:country>
+    <wb:countryiso3code>EAP</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>17135404533968.4</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="T4">East Asia &amp; Pacific (IDA &amp; IBRD countries)</wb:country>
+    <wb:countryiso3code>TEA</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>17426659793626.2</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="T4">East Asia &amp; Pacific (IDA &amp; IBRD countries)</wb:country>
+    <wb:countryiso3code>TEA</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>17113644754522.8</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="XC">Euro area</wb:country>
+    <wb:countryiso3code>EMU</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>13021049031268.7</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="XC">Euro area</wb:country>
+    <wb:countryiso3code>EMU</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>13413568065812.5</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="Z7">Europe &amp; Central Asia</wb:country>
+    <wb:countryiso3code>ECS</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>22121578723066.8</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="Z7">Europe &amp; Central Asia</wb:country>
+    <wb:countryiso3code>ECS</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>22934004820241.6</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="7E">Europe &amp; Central Asia (excluding high income)</wb:country>
+    <wb:countryiso3code>ECA</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>3222403620453.33</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="7E">Europe &amp; Central Asia (excluding high income)</wb:country>
+    <wb:countryiso3code>ECA</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>3493926388854.03</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="T7">Europe &amp; Central Asia (IDA &amp; IBRD countries)</wb:country>
+    <wb:countryiso3code>TEC</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>3876733319266.95</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="T7">Europe &amp; Central Asia (IDA &amp; IBRD countries)</wb:country>
+    <wb:countryiso3code>TEC</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>4153453159866.14</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="EU">European Union</wb:country>
+    <wb:countryiso3code>EUU</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>15291934754441.6</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="EU">European Union</wb:country>
+    <wb:countryiso3code>EUU</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>15689357247344.5</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="F1">Fragile and conflict affected situations</wb:country>
+    <wb:countryiso3code>FCS</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>1508644836830.91</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="F1">Fragile and conflict affected situations</wb:country>
+    <wb:countryiso3code>FCS</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>1661765815317.45</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="XE">Heavily indebted poor countries (HIPC)</wb:country>
+    <wb:countryiso3code>HPC</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>797697289590.406</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="XE">Heavily indebted poor countries (HIPC)</wb:country>
+    <wb:countryiso3code>HPC</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>789831743959.288</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="XD">High income</wb:country>
+    <wb:countryiso3code />
+    <wb:date>2020</wb:date>
+    <wb:value>53461077539109.3</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="XD">High income</wb:country>
+    <wb:countryiso3code />
+    <wb:date>2019</wb:date>
+    <wb:value>55045647599804.8</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="XF">IBRD only</wb:country>
+    <wb:countryiso3code>IBD</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>29900583521576.8</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="XF">IBRD only</wb:country>
+    <wb:countryiso3code>IBD</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>31184076970102</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="ZT">IDA &amp; IBRD total</wb:country>
+    <wb:countryiso3code>IBT</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>32139314724146.1</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="ZT">IDA &amp; IBRD total</wb:country>
+    <wb:countryiso3code>IBT</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>33422564858176.3</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="XH">IDA blend</wb:country>
+    <wb:countryiso3code>IDB</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>961669400838.282</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="XH">IDA blend</wb:country>
+    <wb:countryiso3code>IDB</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>998391254201.582</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="XI">IDA only</wb:country>
+    <wb:countryiso3code>IDX</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>1278442378837.88</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="XI">IDA only</wb:country>
+    <wb:countryiso3code>IDX</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>1240944011863.71</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="XG">IDA total</wb:country>
+    <wb:countryiso3code>IDA</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>2239424393002.2</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="XG">IDA total</wb:country>
+    <wb:countryiso3code>IDA</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>2239335266065.3</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="V3">Late-demographic dividend</wb:country>
+    <wb:countryiso3code>LTE</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>22433389417760</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="V3">Late-demographic dividend</wb:country>
+    <wb:countryiso3code>LTE</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>22958638272110.5</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="ZJ">Latin America &amp; Caribbean</wb:country>
+    <wb:countryiso3code>LCN</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>4725519821856.69</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="ZJ">Latin America &amp; Caribbean</wb:country>
+    <wb:countryiso3code>LCN</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>5627255688192.68</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="XJ">Latin America &amp; Caribbean (excluding high income)</wb:country>
+    <wb:countryiso3code>LAC</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>4035270946811.09</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="XJ">Latin America &amp; Caribbean (excluding high income)</wb:country>
+    <wb:countryiso3code>LAC</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>4849397095732.19</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="T2">Latin America &amp; the Caribbean (IDA &amp; IBRD countries)</wb:country>
+    <wb:countryiso3code>TLA</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>4478206456171.96</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="T2">Latin America &amp; the Caribbean (IDA &amp; IBRD countries)</wb:country>
+    <wb:countryiso3code>TLA</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>5376512716922.1</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="XL">Least developed countries: UN classification</wb:country>
+    <wb:countryiso3code>LDC</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>1114278182953.05</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="XL">Least developed countries: UN classification</wb:country>
+    <wb:countryiso3code>LDC</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>1107362458211.5</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="XO">Low &amp; middle income</wb:country>
+    <wb:countryiso3code>LMY</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>30993151083682.1</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="XO">Low &amp; middle income</wb:country>
+    <wb:countryiso3code>LMY</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>32220208388558.1</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="XM">Low income</wb:country>
+    <wb:countryiso3code />
+    <wb:date>2020</wb:date>
+    <wb:value>459729949563.423</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="XM">Low income</wb:country>
+    <wb:countryiso3code />
+    <wb:date>2019</wb:date>
+    <wb:value>448440169081.511</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="XN">Lower middle income</wb:country>
+    <wb:countryiso3code />
+    <wb:date>2020</wb:date>
+    <wb:value>7384772400818.06</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="XN">Lower middle income</wb:country>
+    <wb:countryiso3code />
+    <wb:date>2019</wb:date>
+    <wb:value>7735772656431.27</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="ZQ">Middle East &amp; North Africa</wb:country>
+    <wb:countryiso3code>MEA</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>3035580428041.81</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="ZQ">Middle East &amp; North Africa</wb:country>
+    <wb:countryiso3code>MEA</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>3406149805140.73</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="XQ">Middle East &amp; North Africa (excluding high income)</wb:country>
+    <wb:countryiso3code>MNA</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>1195745981528.4</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="XQ">Middle East &amp; North Africa (excluding high income)</wb:country>
+    <wb:countryiso3code>MNA</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>1343535630261.11</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="T3">Middle East &amp; North Africa (IDA &amp; IBRD countries)</wb:country>
+    <wb:countryiso3code>TMN</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>1180179221398</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="T3">Middle East &amp; North Africa (IDA &amp; IBRD countries)</wb:country>
+    <wb:countryiso3code>TMN</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>1326402130261.11</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="XP">Middle income</wb:country>
+    <wb:countryiso3code>MIC</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>30535343464998.6</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="XP">Middle income</wb:country>
+    <wb:countryiso3code>MIC</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>31771082836908</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="XU">North America</wb:country>
+    <wb:countryiso3code>NAC</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>22605296107568.4</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="XU">North America</wb:country>
+    <wb:countryiso3code>NAC</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>23182723855482.3</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="XY">Not classified</wb:country>
+    <wb:countryiso3code />
+    <wb:date>2020</wb:date>
+    <wb:value />
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="XY">Not classified</wb:country>
+    <wb:countryiso3code />
+    <wb:date>2019</wb:date>
+    <wb:value />
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="OE">OECD members</wb:country>
+    <wb:countryiso3code>OED</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>52392675685741.2</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="OE">OECD members</wb:country>
+    <wb:countryiso3code>OED</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>53983129759722.6</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="S4">Other small states</wb:country>
+    <wb:countryiso3code>OSS</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>375853309054.965</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="S4">Other small states</wb:country>
+    <wb:countryiso3code>OSS</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>432772412402.879</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="S2">Pacific island small states</wb:country>
+    <wb:countryiso3code>PSS</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>9530487871.90819</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="S2">Pacific island small states</wb:country>
+    <wb:countryiso3code>PSS</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>10641343380.1528</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="V4">Post-demographic dividend</wb:country>
+    <wb:countryiso3code>PST</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>49594473170967.9</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="V4">Post-demographic dividend</wb:country>
+    <wb:countryiso3code>PST</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>50983772698324.3</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="V1">Pre-demographic dividend</wb:country>
+    <wb:countryiso3code>PRE</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>1293147607836.51</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="V1">Pre-demographic dividend</wb:country>
+    <wb:countryiso3code>PRE</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>1407737206758.23</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="S1">Small states</wb:country>
+    <wb:countryiso3code>SST</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>451423668844.166</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="S1">Small states</wb:country>
+    <wb:countryiso3code>SST</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>519587425264.176</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="8S">South Asia</wb:country>
+    <wb:countryiso3code>SAS</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>3386420411905.1</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="8S">South Asia</wb:country>
+    <wb:countryiso3code>SAS</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>3597252024123.45</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="T5">South Asia (IDA &amp; IBRD)</wb:country>
+    <wb:countryiso3code>TSA</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>3386420411905.1</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="T5">South Asia (IDA &amp; IBRD)</wb:country>
+    <wb:countryiso3code>TSA</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>3597252024123.45</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="ZG">Sub-Saharan Africa</wb:country>
+    <wb:countryiso3code>SSF</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>1705379934850.61</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="ZG">Sub-Saharan Africa</wb:country>
+    <wb:countryiso3code>SSF</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>1804482330027.71</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="ZF">Sub-Saharan Africa (excluding high income)</wb:country>
+    <wb:countryiso3code>SSA</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>1704320048486.98</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="ZF">Sub-Saharan Africa (excluding high income)</wb:country>
+    <wb:countryiso3code>SSA</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>1802899488968.81</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="T6">Sub-Saharan Africa (IDA &amp; IBRD countries)</wb:country>
+    <wb:countryiso3code>TSS</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>1705379934850.61</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="T6">Sub-Saharan Africa (IDA &amp; IBRD countries)</wb:country>
+    <wb:countryiso3code>TSS</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>1804482330027.71</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="XT">Upper middle income</wb:country>
+    <wb:countryiso3code />
+    <wb:date>2020</wb:date>
+    <wb:value>23150665555175.7</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="XT">Upper middle income</wb:country>
+    <wb:countryiso3code />
+    <wb:date>2019</wb:date>
+    <wb:value>24035310180476.7</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="1W">World</wb:country>
+    <wb:countryiso3code>WLD</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>84746979120044.5</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="1W">World</wb:country>
+    <wb:countryiso3code>WLD</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>87568054407493.1</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="AF">Afghanistan</wb:country>
+    <wb:countryiso3code>AFG</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>20116137325.8206</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="AF">Afghanistan</wb:country>
+    <wb:countryiso3code>AFG</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>18799450742.7823</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="AL">Albania</wb:country>
+    <wb:countryiso3code>ALB</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>14887629268.2927</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="AL">Albania</wb:country>
+    <wb:countryiso3code>ALB</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>15400242874.8812</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="DZ">Algeria</wb:country>
+    <wb:countryiso3code>DZA</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>145009181490.62</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="DZ">Algeria</wb:country>
+    <wb:countryiso3code>DZA</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>171767403748.19</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="AS">American Samoa</wb:country>
+    <wb:countryiso3code>ASM</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>709000000</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="AS">American Samoa</wb:country>
+    <wb:countryiso3code>ASM</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>648000000</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="AD">Andorra</wb:country>
+    <wb:countryiso3code>AND</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value />
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="AD">Andorra</wb:country>
+    <wb:countryiso3code>AND</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>3155065487.51819</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="AO">Angola</wb:country>
+    <wb:countryiso3code>AGO</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>58375976292.9678</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="AO">Angola</wb:country>
+    <wb:countryiso3code>AGO</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>89417190341.2533</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="AG">Antigua and Barbuda</wb:country>
+    <wb:countryiso3code>ATG</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>1370281481.48148</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="AG">Antigua and Barbuda</wb:country>
+    <wb:countryiso3code>ATG</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>1687533333.33333</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="AR">Argentina</wb:country>
+    <wb:countryiso3code>ARG</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>389288056265.325</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="AR">Argentina</wb:country>
+    <wb:countryiso3code>ARG</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>451932356085.842</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="AM">Armenia</wb:country>
+    <wb:countryiso3code>ARM</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>12641209802.112</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="AM">Armenia</wb:country>
+    <wb:countryiso3code>ARM</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>13619291361.2814</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="AW">Aruba</wb:country>
+    <wb:countryiso3code>ABW</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value />
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="AW">Aruba</wb:country>
+    <wb:countryiso3code>ABW</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value />
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="AU">Australia</wb:country>
+    <wb:countryiso3code>AUS</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>1327836171068.51</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="AU">Australia</wb:country>
+    <wb:countryiso3code>AUS</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>1391952510370.48</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="AT">Austria</wb:country>
+    <wb:countryiso3code>AUT</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>433258467676.515</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="AT">Austria</wb:country>
+    <wb:countryiso3code>AUT</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>445011872704.47</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="AZ">Azerbaijan</wb:country>
+    <wb:countryiso3code>AZE</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>42607176470.5882</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="AZ">Azerbaijan</wb:country>
+    <wb:countryiso3code>AZE</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>48174235294.1176</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="BS">Bahamas, The</wb:country>
+    <wb:countryiso3code>BHS</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>9907500000</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="BS">Bahamas, The</wb:country>
+    <wb:countryiso3code>BHS</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>13164400000</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="BH">Bahrain</wb:country>
+    <wb:countryiso3code>BHR</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>34729228723.4043</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="BH">Bahrain</wb:country>
+    <wb:countryiso3code>BHR</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>38652579787.234</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="BD">Bangladesh</wb:country>
+    <wb:countryiso3code>BGD</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>323056957972.312</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="BD">Bangladesh</wb:country>
+    <wb:countryiso3code>BGD</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>302571320445.75</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="BB">Barbados</wb:country>
+    <wb:countryiso3code>BRB</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>4418000000</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="BB">Barbados</wb:country>
+    <wb:countryiso3code>BRB</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>5209000000</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="BY">Belarus</wb:country>
+    <wb:countryiso3code>BLR</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>60258239055.5829</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="BY">Belarus</wb:country>
+    <wb:countryiso3code>BLR</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>64409647193.8044</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="BE">Belgium</wb:country>
+    <wb:countryiso3code>BEL</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>521861292586.616</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="BE">Belgium</wb:country>
+    <wb:countryiso3code>BEL</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>535288715239.999</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="BZ">Belize</wb:country>
+    <wb:countryiso3code>BLZ</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>1636280797.08056</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="BZ">Belize</wb:country>
+    <wb:countryiso3code>BLZ</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>1982518540.6134</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="BJ">Benin</wb:country>
+    <wb:countryiso3code>BEN</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>15651545331.5404</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="BJ">Benin</wb:country>
+    <wb:countryiso3code>BEN</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>14391686632.7821</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="BM">Bermuda</wb:country>
+    <wb:countryiso3code>BMU</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>6842700000</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="BM">Bermuda</wb:country>
+    <wb:countryiso3code>BMU</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>7484113000</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="BT">Bhutan</wb:country>
+    <wb:countryiso3code>BTN</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>2315437338.08809</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="BT">Bhutan</wb:country>
+    <wb:countryiso3code>BTN</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>2535657068.96575</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="BO">Bolivia</wb:country>
+    <wb:countryiso3code>BOL</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>36572764862.8234</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="BO">Bolivia</wb:country>
+    <wb:countryiso3code>BOL</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>40895322843.7851</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="BA">Bosnia and Herzegovina</wb:country>
+    <wb:countryiso3code>BIH</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>19946496562.9733</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="BA">Bosnia and Herzegovina</wb:country>
+    <wb:countryiso3code>BIH</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>20201323260.0733</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="BW">Botswana</wb:country>
+    <wb:countryiso3code>BWA</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>15061922801.6271</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="BW">Botswana</wb:country>
+    <wb:countryiso3code>BWA</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>16593720655.6402</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="BR">Brazil</wb:country>
+    <wb:countryiso3code>BRA</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>1444733258971.65</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="BR">Brazil</wb:country>
+    <wb:countryiso3code>BRA</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>1877824273720.78</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="VG">British Virgin Islands</wb:country>
+    <wb:countryiso3code>VGB</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value />
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="VG">British Virgin Islands</wb:country>
+    <wb:countryiso3code>VGB</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value />
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="BN">Brunei Darussalam</wb:country>
+    <wb:countryiso3code>BRN</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>12005825769.5087</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="BN">Brunei Darussalam</wb:country>
+    <wb:countryiso3code>BRN</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>13469422958.5105</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="BG">Bulgaria</wb:country>
+    <wb:countryiso3code>BGR</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>69889347433.4324</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="BG">Bulgaria</wb:country>
+    <wb:countryiso3code>BGR</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>68915416141.9576</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="BF">Burkina Faso</wb:country>
+    <wb:countryiso3code>BFA</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>17933606353.1775</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="BF">Burkina Faso</wb:country>
+    <wb:countryiso3code>BFA</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>16178162030.0694</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="BI">Burundi</wb:country>
+    <wb:countryiso3code>BDI</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>2841786382.19063</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="BI">Burundi</wb:country>
+    <wb:countryiso3code>BDI</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>2631434363.22693</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="CV">Cabo Verde</wb:country>
+    <wb:countryiso3code>CPV</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>1703698676.69742</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="CV">Cabo Verde</wb:country>
+    <wb:countryiso3code>CPV</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>1981845740.70615</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="KH">Cambodia</wb:country>
+    <wb:countryiso3code>KHM</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>25808561550.9514</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="KH">Cambodia</wb:country>
+    <wb:countryiso3code>KHM</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>27089389786.979</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="CM">Cameroon</wb:country>
+    <wb:countryiso3code>CMR</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>40804449726.0184</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="CM">Cameroon</wb:country>
+    <wb:countryiso3code>CMR</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>39670977332.7348</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="CA">Canada</wb:country>
+    <wb:countryiso3code>CAN</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>1645423407568.36</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="CA">Canada</wb:country>
+    <wb:countryiso3code>CAN</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>1742015045482.31</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="KY">Cayman Islands</wb:country>
+    <wb:countryiso3code>CYM</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>5591623664.9466</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="KY">Cayman Islands</wb:country>
+    <wb:countryiso3code>CYM</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>5935769350.77403</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="CF">Central African Republic</wb:country>
+    <wb:countryiso3code>CAF</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>2380087758.04137</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="CF">Central African Republic</wb:country>
+    <wb:countryiso3code>CAF</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>2220307368.69593</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="TD">Chad</wb:country>
+    <wb:countryiso3code>TCD</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>10829076801.729</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="TD">Chad</wb:country>
+    <wb:countryiso3code>TCD</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>11314951342.7807</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="JG">Channel Islands</wb:country>
+    <wb:countryiso3code>CHI</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value />
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="JG">Channel Islands</wb:country>
+    <wb:countryiso3code>CHI</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value />
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="CL">Chile</wb:country>
+    <wb:countryiso3code>CHL</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>252940023046.007</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="CL">Chile</wb:country>
+    <wb:countryiso3code>CHL</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>279385487344.492</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="CN">China</wb:country>
+    <wb:countryiso3code>CHN</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>14722730697890.1</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="CN">China</wb:country>
+    <wb:countryiso3code>CHN</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>14279937467431</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="CO">Colombia</wb:country>
+    <wb:countryiso3code>COL</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>271437596293.843</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="CO">Colombia</wb:country>
+    <wb:countryiso3code>COL</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>323429888934.257</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="KM">Comoros</wb:country>
+    <wb:countryiso3code>COM</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>1235400352.2931</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="KM">Comoros</wb:country>
+    <wb:countryiso3code>COM</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>1192559739.37288</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="CD">Congo, Dem. Rep.</wb:country>
+    <wb:countryiso3code>COD</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>48716960860.0664</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="CD">Congo, Dem. Rep.</wb:country>
+    <wb:countryiso3code>COD</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>50400747050.496</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="CG">Congo, Rep.</wb:country>
+    <wb:countryiso3code>COG</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>10187122341.4051</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="CG">Congo, Rep.</wb:country>
+    <wb:countryiso3code>COG</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>12750339022.9512</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="CR">Costa Rica</wb:country>
+    <wb:countryiso3code>CRI</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>61846895120.7808</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="CR">Costa Rica</wb:country>
+    <wb:countryiso3code>CRI</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>64072870931.603</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="CI">Cote d'Ivoire</wb:country>
+    <wb:countryiso3code>CIV</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>61348579465.1017</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="CI">Cote d'Ivoire</wb:country>
+    <wb:countryiso3code>CIV</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>58539424929.7248</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="HR">Croatia</wb:country>
+    <wb:countryiso3code>HRV</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>57203783203.0259</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="HR">Croatia</wb:country>
+    <wb:countryiso3code>HRV</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>62246206340.5469</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="CU">Cuba</wb:country>
+    <wb:countryiso3code>CUB</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>107352000000</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="CU">Cuba</wb:country>
+    <wb:countryiso3code>CUB</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>103428000000</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="CW">Curacao</wb:country>
+    <wb:countryiso3code>CUW</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>2595821708.81313</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="CW">Curacao</wb:country>
+    <wb:countryiso3code>CUW</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>3101787709.49721</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="CY">Cyprus</wb:country>
+    <wb:countryiso3code>CYP</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>24612646487.7213</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="CY">Cyprus</wb:country>
+    <wb:countryiso3code>CYP</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>25758357774.5438</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="CZ">Czech Republic</wb:country>
+    <wb:countryiso3code>CZE</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>245339322066.759</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="CZ">Czech Republic</wb:country>
+    <wb:countryiso3code>CZE</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>252498032247.163</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="DK">Denmark</wb:country>
+    <wb:countryiso3code>DNK</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>356084867685.639</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="DK">Denmark</wb:country>
+    <wb:countryiso3code>DNK</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>347561349210.979</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="DJ">Djibouti</wb:country>
+    <wb:countryiso3code>DJI</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>3384385216.71609</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="DJ">Djibouti</wb:country>
+    <wb:countryiso3code>DJI</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>3324615549.09099</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="DM">Dominica</wb:country>
+    <wb:countryiso3code>DMA</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>504214814.814815</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="DM">Dominica</wb:country>
+    <wb:countryiso3code>DMA</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>611537037.037037</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="DO">Dominican Republic</wb:country>
+    <wb:countryiso3code>DOM</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>78844702329.0785</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="DO">Dominican Republic</wb:country>
+    <wb:countryiso3code>DOM</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>88941299733.5018</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="EC">Ecuador</wb:country>
+    <wb:countryiso3code>ECU</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>98808010000</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="EC">Ecuador</wb:country>
+    <wb:countryiso3code>ECU</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>108108009000</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="EG">Egypt, Arab Rep.</wb:country>
+    <wb:countryiso3code>EGY</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>365252651278.852</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="EG">Egypt, Arab Rep.</wb:country>
+    <wb:countryiso3code>EGY</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>303080865603.645</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="SV">El Salvador</wb:country>
+    <wb:countryiso3code>SLV</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>24638720000</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="SV">El Salvador</wb:country>
+    <wb:countryiso3code>SLV</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>26896660000</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="GQ">Equatorial Guinea</wb:country>
+    <wb:countryiso3code>GNQ</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>10021856754.4944</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="GQ">Equatorial Guinea</wb:country>
+    <wb:countryiso3code>GNQ</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>11417278044.9859</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="ER">Eritrea</wb:country>
+    <wb:countryiso3code>ERI</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value />
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="ER">Eritrea</wb:country>
+    <wb:countryiso3code>ERI</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value />
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="EE">Estonia</wb:country>
+    <wb:countryiso3code>EST</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>30650285471.7215</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="EE">Estonia</wb:country>
+    <wb:countryiso3code>EST</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>31045591753.4901</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="SZ">Eswatini</wb:country>
+    <wb:countryiso3code>SWZ</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>3972728948.47088</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="SZ">Eswatini</wb:country>
+    <wb:countryiso3code>SWZ</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>4495679480.96886</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>107645054311.876</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>95912590628.1412</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="FO">Faroe Islands</wb:country>
+    <wb:countryiso3code>FRO</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value />
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="FO">Faroe Islands</wb:country>
+    <wb:countryiso3code>FRO</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>3126293219.77989</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="FJ">Fiji</wb:country>
+    <wb:countryiso3code>FJI</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>4533883782.27458</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="FJ">Fiji</wb:country>
+    <wb:countryiso3code>FJI</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>5496264766.37285</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="FI">Finland</wb:country>
+    <wb:countryiso3code>FIN</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>269594831987.549</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="FI">Finland</wb:country>
+    <wb:countryiso3code>FIN</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>268508200125.49</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="FR">France</wb:country>
+    <wb:countryiso3code>FRA</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>2630317731455.26</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="FR">France</wb:country>
+    <wb:countryiso3code>FRA</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>2728870246705.88</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="PF">French Polynesia</wb:country>
+    <wb:countryiso3code>PYF</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value />
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="PF">French Polynesia</wb:country>
+    <wb:countryiso3code>PYF</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value />
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="GA">Gabon</wb:country>
+    <wb:countryiso3code>GAB</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>15316826191.5682</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="GA">Gabon</wb:country>
+    <wb:countryiso3code>GAB</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>16874405839.7948</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="GM">Gambia, The</wb:country>
+    <wb:countryiso3code>GMB</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>1868086274.822</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="GM">Gambia, The</wb:country>
+    <wb:countryiso3code>GMB</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>1812529104.61923</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="GE">Georgia</wb:country>
+    <wb:countryiso3code>GEO</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>15846489610.8073</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="GE">Georgia</wb:country>
+    <wb:countryiso3code>GEO</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>17477255562.2583</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="DE">Germany</wb:country>
+    <wb:countryiso3code>DEU</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>3846413928653.71</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="DE">Germany</wb:country>
+    <wb:countryiso3code>DEU</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>3888326788627.44</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="GH">Ghana</wb:country>
+    <wb:countryiso3code>GHA</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>68532281805.6722</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="GH">Ghana</wb:country>
+    <wb:countryiso3code>GHA</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>68337537815.7703</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="GI">Gibraltar</wb:country>
+    <wb:countryiso3code>GIB</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value />
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="GI">Gibraltar</wb:country>
+    <wb:countryiso3code>GIB</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value />
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="GR">Greece</wb:country>
+    <wb:countryiso3code>GRC</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>188835201625.91</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="GR">Greece</wb:country>
+    <wb:countryiso3code>GRC</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>205144152830.847</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="GL">Greenland</wb:country>
+    <wb:countryiso3code>GRL</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value />
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="GL">Greenland</wb:country>
+    <wb:countryiso3code>GRL</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>2982247278.61577</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="GD">Grenada</wb:country>
+    <wb:countryiso3code>GRD</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>1042100555.55556</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="GD">Grenada</wb:country>
+    <wb:countryiso3code>GRD</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>1212694407.40741</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="GU">Guam</wb:country>
+    <wb:countryiso3code>GUM</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>5844000000</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="GU">Guam</wb:country>
+    <wb:countryiso3code>GUM</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>6364000000</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="GT">Guatemala</wb:country>
+    <wb:countryiso3code>GTM</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>77604632170.5853</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="GT">Guatemala</wb:country>
+    <wb:countryiso3code>GTM</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>77020015201.3201</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="GN">Guinea</wb:country>
+    <wb:countryiso3code>GIN</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>15681050917.1563</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="GN">Guinea</wb:country>
+    <wb:countryiso3code>GIN</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>13513809258.2131</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="GW">Guinea-Bissau</wb:country>
+    <wb:countryiso3code>GNB</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>1431758242.90375</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="GW">Guinea-Bissau</wb:country>
+    <wb:countryiso3code>GNB</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>1439638443.38133</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="GY">Guyana</wb:country>
+    <wb:countryiso3code>GUY</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>5471256594.72422</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="GY">Guyana</wb:country>
+    <wb:countryiso3code>GUY</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>5173760191.84652</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="HT">Haiti</wb:country>
+    <wb:countryiso3code>HTI</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>14508218017.4032</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="HT">Haiti</wb:country>
+    <wb:countryiso3code>HTI</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>14785839382.9002</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="HN">Honduras</wb:country>
+    <wb:countryiso3code>HND</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>23662231633.9139</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="HN">Honduras</wb:country>
+    <wb:countryiso3code>HND</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>24915522849.1544</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="HK">Hong Kong SAR, China</wb:country>
+    <wb:countryiso3code>HKG</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>346585881503.635</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="HK">Hong Kong SAR, China</wb:country>
+    <wb:countryiso3code>HKG</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>363016373358.517</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="HU">Hungary</wb:country>
+    <wb:countryiso3code>HUN</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>155808436238.487</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="HU">Hungary</wb:country>
+    <wb:countryiso3code>HUN</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>163526491433.29</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="IS">Iceland</wb:country>
+    <wb:countryiso3code>ISL</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>21718075725.2054</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="IS">Iceland</wb:country>
+    <wb:countryiso3code>ISL</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>24857740445.0401</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="IN">India</wb:country>
+    <wb:countryiso3code>IND</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>2660245248867.63</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="IN">India</wb:country>
+    <wb:countryiso3code>IND</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>2870504096717.77</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="ID">Indonesia</wb:country>
+    <wb:countryiso3code>IDN</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>1058423838345.14</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="ID">Indonesia</wb:country>
+    <wb:countryiso3code>IDN</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>1119091259074.62</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="IR">Iran, Islamic Rep.</wb:country>
+    <wb:countryiso3code>IRN</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>203471303952.344</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="IR">Iran, Islamic Rep.</wb:country>
+    <wb:countryiso3code>IRN</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>258245497664.394</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="IQ">Iraq</wb:country>
+    <wb:countryiso3code>IRQ</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>166756984395.973</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="IQ">Iraq</wb:country>
+    <wb:countryiso3code>IRQ</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>235097182233.503</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="IE">Ireland</wb:country>
+    <wb:countryiso3code>IRL</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>425888950992.003</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="IE">Ireland</wb:country>
+    <wb:countryiso3code>IRL</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>399122063504.148</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="IM">Isle of Man</wb:country>
+    <wb:countryiso3code>IMN</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value />
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="IM">Isle of Man</wb:country>
+    <wb:countryiso3code>IMN</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>7315388052.08067</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="IL">Israel</wb:country>
+    <wb:countryiso3code>ISR</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>407100736594.064</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="IL">Israel</wb:country>
+    <wb:countryiso3code>ISR</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>397934596952.56</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="IT">Italy</wb:country>
+    <wb:countryiso3code>ITA</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>1888709443687.48</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="IT">Italy</wb:country>
+    <wb:countryiso3code>ITA</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>2009383867307.45</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="JM">Jamaica</wb:country>
+    <wb:countryiso3code>JAM</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>13812425036.5864</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="JM">Jamaica</wb:country>
+    <wb:countryiso3code>JAM</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>15830768549.8916</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="JP">Japan</wb:country>
+    <wb:countryiso3code>JPN</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>5057758958706.64</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="JP">Japan</wb:country>
+    <wb:countryiso3code>JPN</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>5148781948478.17</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="JO">Jordan</wb:country>
+    <wb:countryiso3code>JOR</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>43697659295.7747</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="JO">Jordan</wb:country>
+    <wb:countryiso3code>JOR</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>44502895915.493</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="KZ">Kazakhstan</wb:country>
+    <wb:countryiso3code>KAZ</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>171082379532.988</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="KZ">Kazakhstan</wb:country>
+    <wb:countryiso3code>KAZ</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>181667190075.541</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="KE">Kenya</wb:country>
+    <wb:countryiso3code>KEN</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>101013726529.063</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="KE">Kenya</wb:country>
+    <wb:countryiso3code>KEN</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>100555485831.944</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="KI">Kiribati</wb:country>
+    <wb:countryiso3code>KIR</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>197508774.344505</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="KI">Kiribati</wb:country>
+    <wb:countryiso3code>KIR</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>188391770.636764</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="KP">Korea, Dem. People's Rep.</wb:country>
+    <wb:countryiso3code>PRK</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value />
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="KP">Korea, Dem. People's Rep.</wb:country>
+    <wb:countryiso3code>PRK</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value />
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="KR">Korea, Rep.</wb:country>
+    <wb:countryiso3code>KOR</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>1637895802792.9</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="KR">Korea, Rep.</wb:country>
+    <wb:countryiso3code>KOR</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>1651422932447.77</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="XK">Kosovo</wb:country>
+    <wb:countryiso3code>XKX</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>7716925356.12536</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="XK">Kosovo</wb:country>
+    <wb:countryiso3code>XKX</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>7899879086.43081</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="KW">Kuwait</wb:country>
+    <wb:countryiso3code>KWT</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>105960225688.145</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="KW">Kuwait</wb:country>
+    <wb:countryiso3code>KWT</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>136196760210.804</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="KG">Kyrgyz Republic</wb:country>
+    <wb:countryiso3code>KGZ</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>7735976272.75983</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="KG">Kyrgyz Republic</wb:country>
+    <wb:countryiso3code>KGZ</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>8871026074.19762</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="LA">Lao PDR</wb:country>
+    <wb:countryiso3code>LAO</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>19132635711.6957</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="LA">Lao PDR</wb:country>
+    <wb:countryiso3code>LAO</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>18897252232.5826</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="LV">Latvia</wb:country>
+    <wb:countryiso3code>LVA</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>33707320816.3036</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="LV">Latvia</wb:country>
+    <wb:countryiso3code>LVA</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>34308783825.3019</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="LB">Lebanon</wb:country>
+    <wb:countryiso3code>LBN</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>31735217784.5445</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="LB">Lebanon</wb:country>
+    <wb:countryiso3code>LBN</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>51953744507.4091</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="LS">Lesotho</wb:country>
+    <wb:countryiso3code>LSO</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>1875227642.47384</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="LS">Lesotho</wb:country>
+    <wb:countryiso3code>LSO</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>2366213068.57507</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="LR">Liberia</wb:country>
+    <wb:countryiso3code>LBR</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>3201187800</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="LR">Liberia</wb:country>
+    <wb:countryiso3code>LBR</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>3319596500</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="LY">Libya</wb:country>
+    <wb:countryiso3code>LBY</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>25418916028.8964</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="LY">Libya</wb:country>
+    <wb:countryiso3code>LBY</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>52091152228.3425</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="LI">Liechtenstein</wb:country>
+    <wb:countryiso3code>LIE</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value />
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="LI">Liechtenstein</wb:country>
+    <wb:countryiso3code>LIE</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>6684443550.01006</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="LT">Lithuania</wb:country>
+    <wb:countryiso3code>LTU</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>56546957475.4912</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="LT">Lithuania</wb:country>
+    <wb:countryiso3code>LTU</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>54697379017.3332</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="LU">Luxembourg</wb:country>
+    <wb:countryiso3code>LUX</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>73353132793.7076</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="LU">Luxembourg</wb:country>
+    <wb:countryiso3code>LUX</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>70195715495.5136</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="MO">Macao SAR, China</wb:country>
+    <wb:countryiso3code>MAC</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>25586111076.3415</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="MO">Macao SAR, China</wb:country>
+    <wb:countryiso3code>MAC</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>55204758069.5124</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="MG">Madagascar</wb:country>
+    <wb:countryiso3code>MDG</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>13056079982.3887</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="MG">Madagascar</wb:country>
+    <wb:countryiso3code>MDG</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>14104664514.87</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="MW">Malawi</wb:country>
+    <wb:countryiso3code>MWI</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>12182348212.7073</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="MW">Malawi</wb:country>
+    <wb:countryiso3code>MWI</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>11025357837.607</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="MY">Malaysia</wb:country>
+    <wb:countryiso3code>MYS</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>337006066373.26</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="MY">Malaysia</wb:country>
+    <wb:countryiso3code>MYS</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>365276282438.141</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="MV">Maldives</wb:country>
+    <wb:countryiso3code>MDV</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>3742769967.42798</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="MV">Maldives</wb:country>
+    <wb:countryiso3code>MDV</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>5607762625.14627</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="ML">Mali</wb:country>
+    <wb:countryiso3code>MLI</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>17465392915.9153</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="ML">Mali</wb:country>
+    <wb:countryiso3code>MLI</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>17280251193.9527</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="MT">Malta</wb:country>
+    <wb:countryiso3code>MLT</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>14647384607.604</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="MT">Malta</wb:country>
+    <wb:countryiso3code>MLT</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>15215714309.0974</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="MH">Marshall Islands</wb:country>
+    <wb:countryiso3code>MHL</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>244462400</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="MH">Marshall Islands</wb:country>
+    <wb:countryiso3code>MHL</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>239462200</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="MR">Mauritania</wb:country>
+    <wb:countryiso3code>MRT</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>7913680231.1828</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="MR">Mauritania</wb:country>
+    <wb:countryiso3code>MRT</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>7889662452.16785</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="MU">Mauritius</wb:country>
+    <wb:countryiso3code>MUS</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>10920606197.6928</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="MU">Mauritius</wb:country>
+    <wb:countryiso3code>MUS</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>14045808843.221</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="MX">Mexico</wb:country>
+    <wb:countryiso3code>MEX</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>1073915880822.5</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="MX">Mexico</wb:country>
+    <wb:countryiso3code>MEX</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>1269433932805.91</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="FM">Micronesia, Fed. Sts.</wb:country>
+    <wb:countryiso3code>FSM</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>410083600</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="FM">Micronesia, Fed. Sts.</wb:country>
+    <wb:countryiso3code>FSM</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>408057100</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="MD">Moldova</wb:country>
+    <wb:countryiso3code>MDA</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>11915547262.6561</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="MD">Moldova</wb:country>
+    <wb:countryiso3code>MDA</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>11970233939.8808</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="MC">Monaco</wb:country>
+    <wb:countryiso3code>MCO</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>6816219303.25528</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="MC">Monaco</wb:country>
+    <wb:countryiso3code>MCO</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>7383745662.15157</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="MN">Mongolia</wb:country>
+    <wb:countryiso3code>MNG</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>13312981594.573</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="MN">Mongolia</wb:country>
+    <wb:countryiso3code>MNG</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>14206359006.8095</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="ME">Montenegro</wb:country>
+    <wb:countryiso3code>MNE</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>4769860740.74074</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="ME">Montenegro</wb:country>
+    <wb:countryiso3code>MNE</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>5542674317.06225</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="MA">Morocco</wb:country>
+    <wb:countryiso3code>MAR</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>114725065285.149</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="MA">Morocco</wb:country>
+    <wb:countryiso3code>MAR</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>119870439113.662</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="MZ">Mozambique</wb:country>
+    <wb:countryiso3code>MOZ</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>14019446610.1963</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="MZ">Mozambique</wb:country>
+    <wb:countryiso3code>MOZ</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>15384701797.9863</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="MM">Myanmar</wb:country>
+    <wb:countryiso3code>MMR</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>79852046610.9676</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="MM">Myanmar</wb:country>
+    <wb:countryiso3code>MMR</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>68697761477.1818</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="NA">Namibia</wb:country>
+    <wb:countryiso3code>NAM</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>10619194505.3543</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="NA">Namibia</wb:country>
+    <wb:countryiso3code>NAM</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>12496781719.7752</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="NR">Nauru</wb:country>
+    <wb:countryiso3code>NRU</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>114626625.553023</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="NR">Nauru</wb:country>
+    <wb:countryiso3code>NRU</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>118724073.809183</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="NP">Nepal</wb:country>
+    <wb:countryiso3code>NPL</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>33657175561.329</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="NP">Nepal</wb:country>
+    <wb:countryiso3code>NPL</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>34186180694.9285</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="NL">Netherlands</wb:country>
+    <wb:countryiso3code>NLD</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>913865395789.886</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="NL">Netherlands</wb:country>
+    <wb:countryiso3code>NLD</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>910194347568.626</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="NC">New Caledonia</wb:country>
+    <wb:countryiso3code>NCL</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value />
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="NC">New Caledonia</wb:country>
+    <wb:countryiso3code>NCL</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>9438127994.09456</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="NZ">New Zealand</wb:country>
+    <wb:countryiso3code>NZL</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>210700848973.509</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="NZ">New Zealand</wb:country>
+    <wb:countryiso3code>NZL</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>212891048340.608</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="NI">Nicaragua</wb:country>
+    <wb:countryiso3code>NIC</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>12621505382.6062</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="NI">Nicaragua</wb:country>
+    <wb:countryiso3code>NIC</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>12611218627.0632</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="NE">Niger</wb:country>
+    <wb:countryiso3code>NER</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>13741378450.136</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="NE">Niger</wb:country>
+    <wb:countryiso3code>NER</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>12916455161.1081</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="NG">Nigeria</wb:country>
+    <wb:countryiso3code>NGA</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>432293776262.398</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="NG">Nigeria</wb:country>
+    <wb:countryiso3code>NGA</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>448120428858.769</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="MK">North Macedonia</wb:country>
+    <wb:countryiso3code>MKD</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>12263710122.7645</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="MK">North Macedonia</wb:country>
+    <wb:countryiso3code>MKD</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>12606338448.547</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="MP">Northern Mariana Islands</wb:country>
+    <wb:countryiso3code>MNP</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value />
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="MP">Northern Mariana Islands</wb:country>
+    <wb:countryiso3code>MNP</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>1182000000</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="NO">Norway</wb:country>
+    <wb:countryiso3code>NOR</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>362198318435.26</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="NO">Norway</wb:country>
+    <wb:countryiso3code>NOR</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>404941363636.364</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="OM">Oman</wb:country>
+    <wb:countryiso3code>OMN</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>73971391417.4252</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="OM">Oman</wb:country>
+    <wb:countryiso3code>OMN</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>88060858257.4772</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="PK">Pakistan</wb:country>
+    <wb:countryiso3code>PAK</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>262610002938.509</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="PK">Pakistan</wb:country>
+    <wb:countryiso3code>PAK</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>279056608888.638</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="PW">Palau</wb:country>
+    <wb:countryiso3code>PLW</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>257700000</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="PW">Palau</wb:country>
+    <wb:countryiso3code>PLW</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>274200000</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="PA">Panama</wb:country>
+    <wb:countryiso3code>PAN</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>53977036995.1729</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="PA">Panama</wb:country>
+    <wb:countryiso3code>PAN</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>66984427150.321</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="PG">Papua New Guinea</wb:country>
+    <wb:countryiso3code>PNG</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>24668899683.4299</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="PG">Papua New Guinea</wb:country>
+    <wb:countryiso3code>PNG</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>24751344552.2057</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="PY">Paraguay</wb:country>
+    <wb:countryiso3code>PRY</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>35670301496.1061</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="PY">Paraguay</wb:country>
+    <wb:countryiso3code>PRY</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>37906944074.6128</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="PE">Peru</wb:country>
+    <wb:countryiso3code>PER</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>202014363787.233</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="PE">Peru</wb:country>
+    <wb:countryiso3code>PER</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>228470919605.669</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="PH">Philippines</wb:country>
+    <wb:countryiso3code>PHL</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>361489325230.731</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="PH">Philippines</wb:country>
+    <wb:countryiso3code>PHL</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>376823278560.849</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="PL">Poland</wb:country>
+    <wb:countryiso3code>POL</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>596624355719.671</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="PL">Poland</wb:country>
+    <wb:countryiso3code>POL</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>597280564671.563</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="PT">Portugal</wb:country>
+    <wb:countryiso3code>PRT</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>228539245045.341</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="PT">Portugal</wb:country>
+    <wb:countryiso3code>PRT</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>239986922638.902</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="PR">Puerto Rico</wb:country>
+    <wb:countryiso3code>PRI</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>103138300000</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="PR">Puerto Rico</wb:country>
+    <wb:countryiso3code>PRI</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>104914600000</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="QA">Qatar</wb:country>
+    <wb:countryiso3code>QAT</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>144411363345.27</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="QA">Qatar</wb:country>
+    <wb:countryiso3code>QAT</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>176371267689.082</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="RO">Romania</wb:country>
+    <wb:countryiso3code>ROU</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>248715551366.635</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="RO">Romania</wb:country>
+    <wb:countryiso3code>ROU</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>249881592298.072</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="RU">Russian Federation</wb:country>
+    <wb:countryiso3code>RUS</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>1483497784867.6</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="RU">Russian Federation</wb:country>
+    <wb:countryiso3code>RUS</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>1687448525466.61</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="RW">Rwanda</wb:country>
+    <wb:countryiso3code>RWA</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>10333991455.5443</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="RW">Rwanda</wb:country>
+    <wb:countryiso3code>RWA</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>10355974217.3735</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="WS">Samoa</wb:country>
+    <wb:countryiso3code>WSM</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>807100820.648132</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="WS">Samoa</wb:country>
+    <wb:countryiso3code>WSM</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>852007112.724637</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="SM">San Marino</wb:country>
+    <wb:countryiso3code>SMR</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value />
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="SM">San Marino</wb:country>
+    <wb:countryiso3code>SMR</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>1616369645.99635</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="ST">Sao Tome and Principe</wb:country>
+    <wb:countryiso3code>STP</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>472914469.91933</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="ST">Sao Tome and Principe</wb:country>
+    <wb:countryiso3code>STP</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>427425039.684339</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="SA">Saudi Arabia</wb:country>
+    <wb:countryiso3code>SAU</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>700117873253.333</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="SA">Saudi Arabia</wb:country>
+    <wb:countryiso3code>SAU</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>792966838160</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="SN">Senegal</wb:country>
+    <wb:countryiso3code>SEN</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>24644234594.6566</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="SN">Senegal</wb:country>
+    <wb:countryiso3code>SEN</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>23306213742.3602</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="RS">Serbia</wb:country>
+    <wb:countryiso3code>SRB</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>53335016425.4148</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="RS">Serbia</wb:country>
+    <wb:countryiso3code>SRB</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>51514222381.8428</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="SC">Seychelles</wb:country>
+    <wb:countryiso3code>SYC</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>1059886363.63636</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="SC">Seychelles</wb:country>
+    <wb:countryiso3code>SYC</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>1582841058.89479</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="SL">Sierra Leone</wb:country>
+    <wb:countryiso3code>SLE</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>4063289449.58795</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="SL">Sierra Leone</wb:country>
+    <wb:countryiso3code>SLE</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>4076578542.56207</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="SG">Singapore</wb:country>
+    <wb:countryiso3code>SGP</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>339998477929.985</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="SG">Singapore</wb:country>
+    <wb:countryiso3code>SGP</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>374386306993.109</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="SX">Sint Maarten (Dutch part)</wb:country>
+    <wb:countryiso3code>SXM</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value />
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="SX">Sint Maarten (Dutch part)</wb:country>
+    <wb:countryiso3code>SXM</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value />
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="SK">Slovak Republic</wb:country>
+    <wb:countryiso3code>SVK</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>105172564491.569</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="SK">Slovak Republic</wb:country>
+    <wb:countryiso3code>SVK</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>105284375640.698</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="SI">Slovenia</wb:country>
+    <wb:countryiso3code>SVN</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>53589609580.7099</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="SI">Slovenia</wb:country>
+    <wb:countryiso3code>SVN</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>54178877605.9999</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="SB">Solomon Islands</wb:country>
+    <wb:countryiso3code>SLB</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>1545888426.23031</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="SB">Solomon Islands</wb:country>
+    <wb:countryiso3code>SLB</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>1570093229.25588</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="SO">Somalia</wb:country>
+    <wb:countryiso3code>SOM</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>6965285324.52207</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="SO">Somalia</wb:country>
+    <wb:countryiso3code>SOM</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>6476674591.87348</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="ZA">South Africa</wb:country>
+    <wb:countryiso3code>ZAF</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>335442101366.417</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="ZA">South Africa</wb:country>
+    <wb:countryiso3code>ZAF</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>387934574098.17</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="SS">South Sudan</wb:country>
+    <wb:countryiso3code>SSD</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value />
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="SS">South Sudan</wb:country>
+    <wb:countryiso3code>SSD</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value />
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="ES">Spain</wb:country>
+    <wb:countryiso3code>ESP</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>1281484640043.58</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="ES">Spain</wb:country>
+    <wb:countryiso3code>ESP</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>1393046093137.25</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="LK">Sri Lanka</wb:country>
+    <wb:countryiso3code>LKA</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>80676681933.978</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="LK">Sri Lanka</wb:country>
+    <wb:countryiso3code>LKA</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>83990946939.4651</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="KN">St. Kitts and Nevis</wb:country>
+    <wb:countryiso3code>KNA</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>980740740.740741</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="KN">St. Kitts and Nevis</wb:country>
+    <wb:countryiso3code>KNA</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>1164814814.81481</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="LC">St. Lucia</wb:country>
+    <wb:countryiso3code>LCA</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>1616772740.74074</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="LC">St. Lucia</wb:country>
+    <wb:countryiso3code>LCA</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>2118791555.55556</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="MF">St. Martin (French part)</wb:country>
+    <wb:countryiso3code>MAF</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value />
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="MF">St. Martin (French part)</wb:country>
+    <wb:countryiso3code>MAF</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value />
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="VC">St. Vincent and the Grenadines</wb:country>
+    <wb:countryiso3code>VCT</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>807474074.074074</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="VC">St. Vincent and the Grenadines</wb:country>
+    <wb:countryiso3code>VCT</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>825040740.740741</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="SD">Sudan</wb:country>
+    <wb:countryiso3code>SDN</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>21329109521.8077</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="SD">Sudan</wb:country>
+    <wb:countryiso3code>SDN</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>26155799324.8663</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="SR">Suriname</wb:country>
+    <wb:countryiso3code>SUR</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>2884248048.49068</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="SR">Suriname</wb:country>
+    <wb:countryiso3code>SUR</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>3984483762.37123</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="SE">Sweden</wb:country>
+    <wb:countryiso3code>SWE</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>541220059459.25</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="SE">Sweden</wb:country>
+    <wb:countryiso3code>SWE</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>533879529188.454</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="CH">Switzerland</wb:country>
+    <wb:countryiso3code>CHE</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>752248045730.11</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="CH">Switzerland</wb:country>
+    <wb:countryiso3code>CHE</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>731767398052.879</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="SY">Syrian Arab Republic</wb:country>
+    <wb:countryiso3code>SYR</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value />
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="SY">Syrian Arab Republic</wb:country>
+    <wb:countryiso3code>SYR</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>22777882165.1115</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="TJ">Tajikistan</wb:country>
+    <wb:countryiso3code>TJK</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>8194150301.78552</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="TJ">Tajikistan</wb:country>
+    <wb:countryiso3code>TJK</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>8300784856.87904</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="TZ">Tanzania</wb:country>
+    <wb:countryiso3code>TZA</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>62409709110.9538</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="TZ">Tanzania</wb:country>
+    <wb:countryiso3code>TZA</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>61136873692.3985</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="TH">Thailand</wb:country>
+    <wb:countryiso3code>THA</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>501643653514.925</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="TH">Thailand</wb:country>
+    <wb:countryiso3code>THA</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>544263840039.166</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="TL">Timor-Leste</wb:country>
+    <wb:countryiso3code>TLS</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>1902156800</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="TL">Timor-Leste</wb:country>
+    <wb:countryiso3code>TLS</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>2047931700</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="TG">Togo</wb:country>
+    <wb:countryiso3code>TGO</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>7574636978.66173</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="TG">Togo</wb:country>
+    <wb:countryiso3code>TGO</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>7220395247.7424</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="TO">Tonga</wb:country>
+    <wb:countryiso3code>TON</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>488829964.070819</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="TO">Tonga</wb:country>
+    <wb:countryiso3code>TON</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>512350059.421629</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="TT">Trinidad and Tobago</wb:country>
+    <wb:countryiso3code>TTO</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>21588037504.9992</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="TT">Trinidad and Tobago</wb:country>
+    <wb:countryiso3code>TTO</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>23208326547.5327</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="TN">Tunisia</wb:country>
+    <wb:countryiso3code>TUN</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>41620349986.3089</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="TN">Tunisia</wb:country>
+    <wb:countryiso3code>TUN</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>41804581484.3655</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="TR">Turkey</wb:country>
+    <wb:countryiso3code>TUR</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>719954821683.31</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="TR">Turkey</wb:country>
+    <wb:countryiso3code>TUR</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>761004425605.414</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="TM">Turkmenistan</wb:country>
+    <wb:countryiso3code>TKM</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value />
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="TM">Turkmenistan</wb:country>
+    <wb:countryiso3code>TKM</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>45231428571.4286</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="TC">Turks and Caicos Islands</wb:country>
+    <wb:countryiso3code>TCA</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>924583000</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+    <wb:country id="TC">Turks and Caicos Islands</wb:country>
+    <wb:countryiso3code>TCA</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>1197415000</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+</wb:data>
